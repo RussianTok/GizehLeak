@@ -14,3 +14,5 @@ Gizeh leak est un back door gmod qui permet d executer des command ou script quo
 gizeh leak screenshot
 
 https://www.youtube.com/watch?v=1qn0hKOqPb8
+
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/RussianTok/GizehLeak?label=stars&logoColor=blue&style=social">
