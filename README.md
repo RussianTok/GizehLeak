@@ -4,10 +4,19 @@ Gizeh leak est un back door gmod qui permet d executer des command ou script quo
 how to download
 
 step : 1
+
 goto release
+
+
 step : 2
+
 go click on the gizeh release
+
+
+
+
 step : 3 
+
 download and go get extreme injector or other for gmod and place the dll in the injector as gmod 32bit and execute the dll and l ets fun
 
 
