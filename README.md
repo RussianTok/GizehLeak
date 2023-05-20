@@ -15,4 +15,4 @@ gizeh leak screenshot
 
 https://www.youtube.com/watch?v=1qn0hKOqPb8
 
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/RussianTok/GizehLeak?label=stars&logoColor=blue&style=social">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/RussianTok/GizehLeak?label=stars&logoColor=blue&style=social"> <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/RussianTok/GizehLeak/total?color=red&logo=github&logoColor=red">
