@@ -1,14 +1,14 @@
 # GizehLeak
 Gizeh leak est un back door gmod qui permet d executer des command ou script quond ne peut pas executer de base
 
+how to download
 
-
-
-[![Button Icon]][Link]
-<!----------------------------------------------------------------------------->
-[Link]: # '[https://github.com/RussianTok/GizehLeak/releases/download/Leak/GizehLeak.zip](https://github.com/RussianTok/GizehLeak/releases/download/Leak/GizehLeak.zip)'
-<!---------------------------------[ Buttons ]--------------------------------->
-[Button Icon]: https://img.shields.io/badge/Gizeh_Download-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
+step : 1
+goto release
+step : 2
+go click on the gizeh release
+step : 3 
+download and go get extreme injector or other for gmod and place the dll in the injector as gmod 32bit and execute the dll and l ets fun
 
 
 gizeh leak screenshot
